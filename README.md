@@ -34,11 +34,10 @@ Helps Binghamton students plan meals around dietary preferences, with a budgetin
   <img src="https://skillicons.dev/icons?i=go,python,java,c,js,postgres,fastapi,docker,git,linux,vscode" alt="Tech stack" />
 </p>
 
-🏆 Highlights
-	
-🎓 Education	B.S. Computer Science, Minor in Economics at Binghamton University · Dean's List
-🔬 Research	Co-author, "From Affection to Illusion: Detecting Parasocial Interactions on Live Streaming Platforms", poster at IC2S2 2026
-🤝 Programs	SEO Career participant (Summer 2027 internship placement track)
-🧠 Interests	Distributed systems, backend engineering, computational social science, markets
+### 🏆 Highlights
+- 🎓 **Education:** B.S. Computer Science, Minor in Economics at Binghamton University · Dean's List
+- 🔬 **Research:** Co-author, *"From Affection to Illusion: Detecting Parasocial Interactions on Live Streaming Platforms"*, poster at IC2S2 2026
+- 🤝 **Programs:** SEO Career participant (Summer 2027 internship placement track)
+- 🧠 **Interests:** Distributed systems, backend engineering, computational social science, markets
 
 <p align="center"><i>Always looking for Summer 2027 software engineering internships. Say hi! 👋</i></p>
