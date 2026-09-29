@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jason 👋</h1>
 
-<!--
-**jasonzhao24/jasonzhao24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  CS + Economics @ Binghamton University · Building reliable backend systems in Go and Python<br>
+  Research on parasocial interaction in live-stream chat · Brooklyn, NY
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/jasonzhao0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jzhao23@binghamton.edu"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm up to
+- 🛠 Building a **distributed task queue** in Go with PostgreSQL-backed leases and chaos testing
+- 🔬 Research assistant at Binghamton studying **parasocial interaction detection** with LLMs (poster at IC2S2 2026)
+- 📈 Exploring markets with a full-stack **stock screener** for 500+ S&P equities
+
+### 🚀 Featured projects
+
+**[Distributed Task Queue](https://github.com/jasonzhao24/go-task-queue)** · `Go` `PostgreSQL` `Docker`
+Effectively-once task execution using leases, visibility timeouts, idempotency keys, and exponential backoff. Chaos-tested across 2.1M tasks and 4,812 simulated worker failures with zero lost tasks and zero duplicate side effects. Benchmarked at 18.4K tasks/sec with 42 ms p99 latency.
+
+**[Algorithmic Stock Screener](https://github.com/jasonzhao24/StockScreener)** · `Python` `FastAPI` `PostgreSQL` `Pandas` `JavaScript`
+End-to-end screener over 500+ S&P equities using EV/EBITDA, FCF yield, beta, SMA, and ATR, with a nightly Dockerized ETL pipeline and news/filings endpoints.
+
+**[Meal Plan Budgeting App](https://github.com/ethankyi7/MealPlanHelper)** · `FastAPI` `JavaScript` `HTML/CSS`
+Helps Binghamton students plan meals around dietary preferences, with a budgeting algorithm that adjusts daily spending limits from live dining balances.
+
+### 🛠 Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,java,c,js,postgres,fastapi,docker,git,linux,vscode" alt="Tech stack" />
+</p>
+
+### 📊 GitHub stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jasonzhao24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonzhao24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center"><i>Always looking for Summer 2027 software engineering internships. Say hi! 👋</i></p>
